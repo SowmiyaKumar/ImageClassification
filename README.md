@@ -8,8 +8,8 @@
 
 ## 👥 Contributors
 
-* **Sowmiya Kumar** — Student ID: s4040536
-* **Mohammad Reyaz Mohammad Rafi** — Student ID: s4067516
+* **Sowmiya Kumar** 
+* **Mohammad Reyaz Mohammad Rafi**
 
 > Although this was a group project, **both contributors were involved across all stages** of the project, including data handling, model design, evaluation, literature comparison, and reporting.
 
