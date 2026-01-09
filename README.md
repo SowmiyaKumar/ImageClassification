@@ -223,10 +223,17 @@ Compared against:
 ├── data/                  # Structured data (images excluded)
 ├── notebooks/
 │   └── colon_cancer_ml.ipynb
-├── references/
-│   └── sirinukunwattana2016.pdf
+├
 ├── README.md
 ```
+
+---
+
+📄 References
+
+1. Sirinukunwattana, K. et al. (2016).
+Locality Sensitive Deep Learning for Detection and Classification of Nuclei in Routine Colon Cancer Histology Images.
+IEEE Transactions on Medical Imaging.
 
 ---
 
